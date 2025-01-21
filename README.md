@@ -2,20 +2,20 @@
 
 Customised Student Recommendations to NEET Testline
 
-#Project Description
+## Project Description
 This project interprets quiz score data to personalize suggestions for test-takers taking the NEET exam by using the application of NEET Testline. It analyzes metrics based on the scores, precision, and pattern of responses to be taken in the form of actionable to the improvement of test preparation quality.
  
 Critical Features
  
-Performance Metrics Scores, Accuracy, and subject-wise performance analysis  Personalized findings Areas of Improvement along with its strength and weak points.
+1) Performance Metrics Scores, Accuracy, and subject-wise performance analysis  Personalized findings Areas of Improvement along with its strength and weak points.
 
-Visualization: Plot topic-wise scores, accuracy, and overall trends as graphs.
+2) Visualization: Plot topic-wise scores, accuracy, and overall trends as graphs.
 
-Suggestions: Provide actionable feedback on weak areas and topic focus suggestions.
+3) Suggestions: Provide actionable feedback on weak areas and topic focus suggestions.
 
-Setup Instructions: 
+## Setup Instructions: 
 
-Pre-requisites
+**Pre-requisites**
 
 Python 3.7+
 
@@ -23,7 +23,7 @@ Libraries
 
 pandas, numpy, matplotlib, seaborn
 
-## Clone the Repository:
+Clone the Repository:
 
 git clone: 
 https://github.com/amit9594/Personalized-Student-Recommendations.git
