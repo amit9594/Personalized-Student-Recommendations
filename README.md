@@ -74,13 +74,13 @@ Find out key fields such as topic, score, accuracy, and response_map.
 
 **3. Analysis:**
  
-Performance Metrics
+1) Performance Metrics
 
-1) Compute average scores and accuracy
+2) Compute average scores and accuracy
 
-2) Weak and strong topics identification
+3) Weak and strong topics identification
 
-3) Trends : Time trend or cross level of difficulty
+4) Trends : Time trend or cross level of difficulty
 
 **4. Visualization:**
 
