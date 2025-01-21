@@ -5,7 +5,27 @@ topics:
 2) Respiration and Gas Exchange
 3) Human Reproduction
 4) Reproductive Health
+5) human health and disease
+6) Body Fluids and Circulation
+7) microbes in human welfare
 
-Persona Summary:
+**Persona Summary:**
          persona  score  accuracy  speed
 0  Speedy Solver     32      80.0    100
+
+**Student Personas Assigned:**
+                        user_id  accuracy  score  speed        persona
+0  7ZXdz3zHuNcdg9agb5YpaOGLQqw2      80.0     32    100  Speedy Solver
+
+Students' Strength Areas --> 
+
+1) human health and disease
+2) Body Fluids and Circulation
+3) microbes in human welfare
+
+Students' Weak Areas --> 
+
+1) principles of inheritance and variation
+2) Respiration and Gas Exchange
+3) Human Reproduction
+4) Reproductive Health
