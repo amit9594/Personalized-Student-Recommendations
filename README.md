@@ -25,7 +25,7 @@ pandas, numpy, matplotlib, seaborn
 
 Clone the Repository:
 
-git clone https://github.com/amit9594/neet-testline-recommendations.git
+git clone https://github.com/amit9594/Personalized-Student-Recommendations.git
 cd neet-testline-recommendations
 
 Install Required Libraries
