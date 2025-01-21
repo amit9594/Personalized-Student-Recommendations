@@ -46,11 +46,11 @@ jupyter notebook
 
 Run the cells in sequence to explore and analyze the data and generate insights.
 
-View Outputs:
+**View Outputs:**
 
-The generated visualizations and insights will be displayed in the notebook.
+1) The generated visualizations and insights will be displayed in the notebook.
 
-Final recommendations will be saved in the output/ directory if implemented.
+2) Final recommendations will be saved in the output/ directory if implemented.
 
 ## Approach Description
 
@@ -66,32 +66,38 @@ Find out key fields such as topic, score, accuracy, and response_map.
 
 **2. Data Cleaning and Preprocessing:**
 
-Handle missing or inconsistent data.
+1) Handle missing or inconsistent data.
 
-Date fields convert to datetime
+2) Date fields convert to datetime
 
-Standardize the numeric fields -accuracy percentage etc
+3) Standardize the numeric fields -accuracy percentage etc
 
 **3. Analysis:**
  
 Performance Metrics
 
-Compute average scores and accuracy
-Weak and strong topics identification
-Trends
-Time trend or cross level of difficulty
+1) Compute average scores and accuracy
+
+2) Weak and strong topics identification
+
+3) Trends : Time trend or cross level of difficulty
 
 **4. Visualization:**
 
 Graphs
 
-Topic vs. Score: Bar Chart
-Topic vs. Score with Accuracy as third dimension: Scatter Plot
-Topic-wise Heatmap for accuracy
+1) Topic vs. Score: Bar Chart
+
+2) Topic vs. Score with Accuracy as third dimension: Scatter Plot
+
+3) Topic-wise Heatmap for accuracy
 
 
 
 **5. Recommendations**
-Weak area for each student
-Suggesting the focused topics based on the performance trend
-Sample Visualizations
+
+1) Weak area for each student
+
+2) Suggesting the focused topics based on the performance trend
+
+3) Sample Visualizations
